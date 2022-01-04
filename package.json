@@ -1,0 +1,12 @@
+{
+  "name": "gitbook-plugin-hide-article",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "gitbook": ">1.x.x"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
