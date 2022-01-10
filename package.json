@@ -1,12 +1,26 @@
 {
   "name": "gitbook-plugin-hide-article",
   "version": "1.0.0",
-  "description": "",
+  "description": "gitbook插件，用于隐藏你不想在侧边目录展示的文章",
   "main": "index.js",
   "engines": {
     "gitbook": ">1.x.x"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Tmiracle",
+  "license": "ISC",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T-miracle/gitbook-plugin-hide-article.git"
+  },
+  "bugs": {
+    "url": "https://github.com/T-miracle/gitbook-plugin-hide-article/issues"
+  },
+  "homepage": "https://github.com/T-miracle/gitbook-plugin-hide-article#readme"
 }
